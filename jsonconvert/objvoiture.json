@@ -1,0 +1,10 @@
+{
+    "marque": "Nissan",
+    "modele": "Versa",
+    "transmission": "automatique",
+    "couleur": "orange",
+    "porte": 4,
+    "accessoires": {
+        "toit_ouvrant": true
+    }
+}
